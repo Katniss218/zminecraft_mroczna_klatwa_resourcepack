@@ -1,0 +1,46 @@
+{
+  "parent": "block/block",
+	"credit": "By Katniss",
+	"textures": {
+		"0": "block/goblin_stake",
+		"particle": "block/goblin_stake"
+	},
+	"elements": [
+		{
+			"from": [8, 0, 8],
+			"to": [11, 25, 11],
+			"rotation": {"angle": -45, "axis": "y", "origin": [9.5, 26.5, 9.5]},
+			"faces": {
+				"north": {"uv": [14.5, 0, 16, 12.5], "texture": "#0"},
+				"east": {"uv": [0, 0, 1.5, 12.5], "texture": "#0"},
+				"south": {"uv": [14.5, 0, 16, 12.5], "texture": "#0"},
+				"west": {"uv": [0, 0, 1.5, 12.5], "texture": "#0"},
+				"up": {"uv": [2, 0, 3.5, 1.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8.5, 25, 8.5],
+			"to": [10.5, 28, 10.5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [9.5, 26.5, 9.5]},
+			"faces": {
+				"north": {"uv": [2, 14, 3, 15.5], "texture": "#0"},
+				"east": {"uv": [2, 14, 3, 15.5], "texture": "#0"},
+				"south": {"uv": [2, 14, 3, 15.5], "texture": "#0"},
+				"west": {"uv": [2, 14, 3, 15.5], "texture": "#0"},
+				"up": {"uv": [3.5, 0, 4.5, 1], "texture": "#0"}
+			}
+		},
+		{
+			"from": [9, 28, 9],
+			"to": [10, 32, 10],
+			"rotation": {"angle": -45, "axis": "y", "origin": [9.5, 26.5, 9.5]},
+			"faces": {
+				"north": {"uv": [2.5, 12, 3, 14], "texture": "#0"},
+				"east": {"uv": [2.5, 12, 3, 14], "texture": "#0"},
+				"south": {"uv": [2.5, 12, 3, 14], "texture": "#0"},
+				"west": {"uv": [2.5, 12, 3, 14], "texture": "#0"},
+				"up": {"uv": [4.5, 0, 5, 0.5], "texture": "#0"}
+			}
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": 
+		[
+			{ "model": "block/oak_log_sharp" },
+			{ "model": "block/oak_log_sharp_2" }
+		]
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "block/cabinet_front",
+    "down": "block/planks_oak",
+    "up": "block/cabinet_top",
+    "north": "block/cabinet_side",
+    "east": "block/cabinet_side",
+    "south": "block/cabinet_front",
+    "west": "block/cabinet_side"
+  }
+}

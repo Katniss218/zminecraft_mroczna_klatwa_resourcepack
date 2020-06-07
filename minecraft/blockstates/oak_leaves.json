@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "": [
+		{ "model": "block/oak_leaves" },
+		{ "model": "block/oak_leaves_skewed" },
+		{ "model": "block/oak_leaves_skewed_2" },
+		{ "model": "block/oak_leaves_2" },
+		{ "model": "block/oak_leaves_2_skewed" },
+		{ "model": "block/oak_leaves_2_skewed_2" },
+		{ "model": "block/oak_leaves", "x": 90 },
+		{ "model": "block/oak_leaves_skewed", "x": 90 },
+		{ "model": "block/oak_leaves_skewed_2", "x": 90 },
+		{ "model": "block/oak_leaves_2", "x": 90 },
+		{ "model": "block/oak_leaves_2_skewed", "x": 90 },
+		{ "model": "block/oak_leaves_2_skewed_2", "x": 90 },
+		{ "model": "block/oak_leaves", "x": 180 },
+		{ "model": "block/oak_leaves_skewed", "x": 180 },
+		{ "model": "block/oak_leaves_skewed_2", "x": 180 },
+		{ "model": "block/oak_leaves_2", "x": 180 },
+		{ "model": "block/oak_leaves_2_skewed", "x": 180 },
+		{ "model": "block/oak_leaves_2_skewed_2", "x": 180 },
+		{ "model": "block/oak_leaves", "x": 270 },
+		{ "model": "block/oak_leaves_skewed", "x": 270 },
+		{ "model": "block/oak_leaves_skewed_2", "x": 270 },
+		{ "model": "block/oak_leaves_2", "x": 270 },
+		{ "model": "block/oak_leaves_2_skewed", "x": 270 },
+		{ "model": "block/oak_leaves_2_skewed_2", "x": 270 }
+	]
+  }
+}

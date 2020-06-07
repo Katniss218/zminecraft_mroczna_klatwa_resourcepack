@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/grass_path_slab_side",
+		"1": "block/dirt",
+		"2": "block/grass_path_top",
+		"particle": "block/grass_path_slab_side"
+	},
+	"elements": [
+		{
+			"from": [-0.001, 7, -0.001],
+			"to": [16.001, 15, 16.001],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 8], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 8], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 8], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 8], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		}
+	]
+}

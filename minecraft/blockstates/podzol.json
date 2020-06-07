@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/podzol","weight": 160 },
+            { "model": "block/podzol","weight": 160, "y": 90 },
+            { "model": "block/podzol","weight": 160, "y": 180 },
+            { "model": "block/podzol","weight": 160, "y": 270 },
+            { "model": "block/podzol_2","weight": 160 },
+            { "model": "block/podzol_2","weight": 160, "y": 90 },
+            { "model": "block/podzol_2","weight": 160, "y": 180 },
+            { "model": "block/podzol_2","weight": 160, "y": 270 }
+        ]
+    }
+}

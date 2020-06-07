@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/flower_pot" },
+            { "model": "block/flower_pot", "y": 90 },
+            { "model": "block/flower_pot", "y": 180 },
+            { "model": "block/flower_pot", "y": 270 },
+            { "model": "block/flower_pot_2" },
+            { "model": "block/flower_pot_2", "y": 90 },
+            { "model": "block/flower_pot_2", "y": 180 },
+            { "model": "block/flower_pot_2", "y": 270 },
+            { "model": "block/flower_pot_3" },
+            { "model": "block/flower_pot_3", "y": 90 },
+            { "model": "block/flower_pot_3", "y": 180 },
+            { "model": "block/flower_pot_3", "y": 270 }
+		]
+    }
+}

@@ -1,0 +1,49 @@
+{
+	"credit": "by Katniss",
+	"textures": {
+		"2": "block/books_front",
+		"3": "block/books_side"
+	},
+	"elements": [
+		{
+			"from": [7, 7, 0],
+			"to": [10, 14, 6],
+			"faces": {
+				"east": {"uv": [0, 0, 6, 7], "texture": "#3"},
+				"south": {"uv": [0, 2, 3, 9], "texture": "#2"},
+				"west": {"uv": [6, 0, 0, 7], "texture": "#3"},
+				"up": {"uv": [0, 10, 3, 16], "texture": "#2"}
+			}
+		},
+		{
+			"from": [12, 7, 0],
+			"to": [16, 13, 5],
+			"faces": {
+				"east": {"uv": [6, 0, 11, 6], "texture": "#3"},
+				"south": {"uv": [3, 3, 7, 9], "texture": "#2"},
+				"west": {"uv": [3, 3, 7, 9], "texture": "#2"},
+				"up": {"uv": [3, 11, 7, 16], "texture": "#2"}
+			}
+		},
+		{
+			"from": [2, 9, 0],
+			"to": [7, 13, 5],
+			"faces": {
+				"east": {"uv": [11, 10, 16, 14], "texture": "#2"},
+				"south": {"uv": [11, 3, 16, 7], "texture": "#2"},
+				"west": {"uv": [11, 10, 16, 14], "texture": "#2"},
+				"up": {"uv": [11, 0, 16, 5], "texture": "#3"}
+			}
+		},
+		{
+			"from": [0, 7, 0],
+			"to": [7, 9, 6],
+			"faces": {
+				"east": {"uv": [10, 14, 16, 16], "texture": "#2"},
+				"south": {"uv": [9, 7, 16, 9], "texture": "#2"},
+				"west": {"uv": [10, 14, 16, 16], "texture": "#2"},
+				"up": {"uv": [0, 7, 7, 13], "texture": "#3"}
+			}
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/furniture_top",
+  "textures": {
+    "up": "block/forging_table_top"
+  }
+}

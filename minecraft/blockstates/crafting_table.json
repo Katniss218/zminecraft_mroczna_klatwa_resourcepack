@@ -1,0 +1,10 @@
+{
+	"multipart": [
+        {
+			"apply": { "model": "block/crafting_table_top", "uvlock": true }
+		},
+        {
+            "apply": { "model": "block/crafting_table" }
+        }
+    ]
+}

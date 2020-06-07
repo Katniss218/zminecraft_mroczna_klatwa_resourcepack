@@ -1,0 +1,13 @@
+{
+	"credit": "by Katniss",
+	"elements": [
+		{
+			"from": [0, 16, 0],
+			"to": [16, 16, 16],
+			"color": 6,
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#up"}
+			}
+		}
+	]
+}

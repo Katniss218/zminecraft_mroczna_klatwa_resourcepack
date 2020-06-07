@@ -1,0 +1,106 @@
+{	
+	"icon.damage": "À",
+	"icon.damage_plus": "Á",
+	"icon.damage_minus": "Â",
+	
+	"icon.defence": "Ã",
+	"icon.defence_plus": "Ä",
+	"icon.defence_minus": "Å",
+
+
+	"item.2000.name": "Borowik",
+	"item.2000.lore1": "Nadaje się do bezpośredniego spożycia,",
+	"item.2000.lore2": "suszenia i wszelkich innych rodzajów przerobu.",
+	"item.3001.effect1": "+2 punktów najedzenia",
+	
+	"item.2001.name": "XXX",
+	"item.2001.lore1": "XXX",
+	"item.2001.lore2": "XXX",
+	"item.2001.lore3": "XXX",
+	"item.2001.lore4": "XXX",
+	"item.3001.effect1": "xxxx",
+	
+	"item.2002.name": "Żylaste mięso",
+	"item.2002.lore1": "Surowe mięso, twarde i żylaste, ale może po",
+	"item.2002.lore2": "upieczeniu będzie bardziej zjadliwe...",
+	"item.3001.effect1": "+4 punktów najedzenia",
+	"item.3003.effect2": "Głód I przez 0:30 (80%% szansy)",
+	
+	"item.2003.name": "Delikatne mięso",
+	"item.2003.lore1": "Soczyste, surowe mięso. Pożywne i smaczne.",
+	"item.3001.effect1": "+3 punktów najedzenia",
+	
+	"item.2004.name": "Jabłko",
+	"item.2004.lore1": "Dojrzałe, czerwone jabłko, bardzo słodkie i",
+	"item.2004.lore2": "jedynie lekko kwaskowate.",
+	"item.3001.effect1": "+4 punktów najedzenia",
+	
+	"item.2005.name": "Kwaśne jabłko",
+	"item.2005.lore1": "To jabłko nie jest niedojrzałe, a jedynie z natury",
+	"item.2005.lore2": "kwaśne.",
+	"item.3001.effect1": "+3 punktów najedzenia",
+	
+	"item.2006.name": "Chleb",
+	"item.2006.lore1": "Gruba kromka chleba. Jest to podstawowy",
+	"item.2006.lore2": "rodzaj pożywienia wielu mieszkańców.",
+	"item.3001.effect1": "+5 punktów najedzenia",
+	
+	"item.2007.name": "Grillowane mięso",
+	"item.2007.lore1": "Dobrze upieczone mięso, może troche żylaste,",
+	"item.2007.lore2": "ale mięso to mięso. Jest to podstawowy rodzaj",
+	"item.2007.lore3": "pożywienia wielu mieszkańców.",
+	"item.3001.effect1": "+5 punktów najedzenia",
+	
+	"item.2008.name": "Potrawka mięsna",
+	"item.2008.lore1": "Delikatny i dobrze przyprawiony posiłek.",
+	"item.3001.effect1": "+6 punktów najedzenia",
+	
+	"item.2009.name": "Pieczony udziec",
+	"item.2009.lore1": "Soczysty i rozpływający się w ustach, posiada",
+	"item.2009.lore2": "bardzo aromatyczny zapach.",
+	"item.3001.effect1": "+8 punktów najedzenia",
+	
+	
+	"item.3000.name": "Słaba mikstura zdrowia",
+	"item.3000.lore1": "Destylowana z ziół leczniczych, zawiera",
+	"item.3000.lore2": "niewielką ich dawkę.",
+	"item.3000.effect1": "+4 punkty życia",
+	
+	"item.3001.name": "Mikstura zdrowia",
+	"item.3001.lore1": "Destylowana z ziół leczniczych, zawiera",
+	"item.3001.lore2": "typową dawkę ziół.",
+	"item.3001.effect1": "+8 punktów życia",
+	
+	"item.3002.name": "Silna mikstura zdrowia",
+	"item.3002.lore1": "Destylowana z silnych ziół leczniczych, zawiera",
+	"item.3002.lore2": "sporą dawkę.",
+	"item.3002.effect1": "+12 punktów życia",
+	
+	"item.3003.name": "Słaby eliksir zwinności",
+	"item.3003.lore1": "Wywar z ziół tymczasowo poprawiających",
+	"item.3003.lore2": "kondycję użytkownika.",
+	"item.3003.effect1": "Szybkość I przez 0:45",
+	
+	"item.3004.name": "XXX",
+	"item.3004.lore1": "XXX",
+	"item.3004.lore2": "XXX",
+	"item.3004.lore3": "XXX",
+	"item.3004.lore4": "XXX",
+	"item.3004.effect1": "XXXX",
+	
+	"item.3005.name": "Eliksir kamiennej skóry",
+	"item.3005.lore1": "Wywar tymczasowo zwiekszający odporność",
+	"item.3005.lore2": "na ciosy.",
+	"item.3005.effect1": "Odporność I przez 0:45",
+	"item.3005.effect2": "Regeneracja I przez 0:45",
+		
+	"mob.ogre": "§c§lOgr",
+	"red": "§c",
+	
+	"boletus.2001.chewy_meat.tender_meat.apple.sour_apple.bread.grilled_meat.meat_stew.roasted_haunch": "",
+	
+	"d.npc1.greeting1": "Bądź pozdrowiony, %s!",
+	"d.npc1.greeting2": "Witaj, %s!",
+	"d.npc1.greeting3": "Piękny dziś mamy dzień, czyż nie?, %s!",
+	"d.npc1.greeting4": "Ci cholerni orkowie... Mam ich dosyć! O, witaj, %s!"
+}

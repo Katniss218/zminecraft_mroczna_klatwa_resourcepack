@@ -1,0 +1,8 @@
+{
+  "parent": "block/furniture_base",
+  "textures": {
+    "particle": "block/drawer_front",
+    "front": "block/drawer_front",
+    "side": "block/drawer_side"
+  }
+}

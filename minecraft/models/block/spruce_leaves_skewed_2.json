@@ -1,0 +1,1 @@
+{	"parent": "block/leaves_skewed_2",	"textures": {		"1": "block/spruce_leaves",		"tips": "block/spruce_leaves_tips",		"particle": "block/spruce_leaves"	}}

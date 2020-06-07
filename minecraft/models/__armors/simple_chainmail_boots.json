@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "_armor/simple_chainmail_boots"
+    }
+}

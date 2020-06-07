@@ -1,0 +1,21 @@
+{
+    "multipart": [
+        {
+			"apply":
+			[
+				{ "model": "block/goblin_stake" },
+				{ "model": "block/goblin_stake", "y": 90 },
+				{ "model": "block/goblin_stake", "y": 180 },
+				{ "model": "block/goblin_stake", "y": 270 },
+				{ "model": "block/goblin_stake_2" },
+				{ "model": "block/goblin_stake_2", "y": 90 },
+				{ "model": "block/goblin_stake_2", "y": 180 },
+				{ "model": "block/goblin_stake_2", "y": 270 },
+				{ "model": "block/goblin_stake_3" },
+				{ "model": "block/goblin_stake_3", "y": 90 },
+				{ "model": "block/goblin_stake_3", "y": 180 },
+				{ "model": "block/goblin_stake_3", "y": 270 }
+			]
+		}
+    ]
+}

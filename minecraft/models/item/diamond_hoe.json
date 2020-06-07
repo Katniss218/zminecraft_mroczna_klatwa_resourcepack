@@ -1,0 +1,13 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/diamond_hoe"
+	},
+    "overrides": [
+		{ "predicate": { "custom_model_data": 1000 }, "model": "block/chair" },
+		{ "predicate": { "custom_model_data": 1001 }, "model": "block/chair_2" },
+		{ "predicate": { "custom_model_data": 1002 }, "model": "block/bench_3m" },
+		{ "predicate": { "custom_model_data": 1003 }, "model": "block/bar_stool" },
+		{ "predicate": { "custom_model_data": 1004 }, "model": "block/bench_2m" }
+    ]
+}
