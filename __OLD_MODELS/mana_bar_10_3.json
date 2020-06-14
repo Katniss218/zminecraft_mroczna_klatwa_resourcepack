@@ -1,0 +1,6 @@
+﻿{
+	"parent": "item/mana_bar",
+	"textures": {
+		"0": "gui/mana_10_3"
+	}
+}
