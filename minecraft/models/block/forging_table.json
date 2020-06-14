@@ -1,8 +1,0 @@
-{
-  "parent": "block/furniture_base",
-  "textures": {
-    "particle": "block/forging_table_front",
-    "front": "block/forging_table_front",
-    "side": "block/forging_table_side"
-  }
-}
