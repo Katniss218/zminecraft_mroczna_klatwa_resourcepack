@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+		{ "model": "stonebrick_mossy_dark", "weight": 50 },
+		{ "model": "stonebrick_mossy_dark1", "weight": 60 },
+		{ "model": "stonebrick_mossy_dark2", "weight": 50 },
+		{ "model": "stonebrick_mossy_dark3", "weight": 5 }
+		]
+    }
+}

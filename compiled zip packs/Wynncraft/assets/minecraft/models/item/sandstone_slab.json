@@ -1,0 +1,20 @@
+{
+    "parent": "item/wynn/wand_thunder_2",
+    "display": {
+		"firstperson_righthand": {
+            "rotation": [ -5, 45, 0 ],
+            "translation": [ 0, 1.5, 1.7 ],
+            "scale": [ 0.6, 0.6, 0.6 ]
+		},
+        "thirdperson_righthand": {
+            "rotation": [ 10, 0, 0 ],
+            "translation": [ -0.7, 4, 2 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+		},
+		"gui": {
+			"rotation": [ 45, 25, -45 ],
+			"translation": [ 0, 0, 0 ],
+			"scale": [ 0.7, 0.7, 0.7 ]
+		}
+    }
+}

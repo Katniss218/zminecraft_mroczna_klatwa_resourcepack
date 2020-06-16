@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/blue_stained_glass" },
+            { "model": "block/blue_stained_glass", "y": 90 },
+            { "model": "block/blue_stained_glass", "y": 180 },
+            { "model": "block/blue_stained_glass", "y": 270 },
+			
+            { "model": "block/blue_stained_glass_2" },
+			
+            { "model": "block/blue_stained_glass_3" },
+            { "model": "block/blue_stained_glass_3", "y": 90 },
+            { "model": "block/blue_stained_glass_3", "y": 180 },
+            { "model": "block/blue_stained_glass_3", "y": 270 }
+		]
+    }
+}

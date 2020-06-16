@@ -1,0 +1,93 @@
+{
+	"credit": "By Katniss",
+	"textures": {
+		"pot1_top": "block/pot_top",
+		"pot_detail": "block/pot_side"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 5.41421],
+			"to": [12, 1, 13.41421],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [4, 15, 12, 16], "texture": "#pot_detail"},
+				"east": {"uv": [4, 15, 12, 16], "texture": "#pot_detail"},
+				"south": {"uv": [4, 15, 12, 16], "texture": "#pot_detail"},
+				"west": {"uv": [4, 15, 12, 16], "texture": "#pot_detail"}
+			}
+		},
+		{
+			"from": [4, 11, 5.41421],
+			"to": [12, 13, 13.41421],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [4, 3, 12, 5], "texture": "#pot_detail"},
+				"east": {"uv": [4, 3, 12, 5], "texture": "#pot_detail"},
+				"south": {"uv": [4, 3, 12, 5], "texture": "#pot_detail"},
+				"west": {"uv": [4, 3, 12, 5], "texture": "#pot_detail"},
+				"up": {"uv": [4, 4, 12, 12], "rotation": 90, "texture": "#pot1_top"}
+			}
+		},
+		{
+			"from": [2, 1, 3.41421],
+			"to": [14, 11, 15.41421],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [2, 5, 14, 15], "texture": "#pot_detail"},
+				"east": {"uv": [2, 5, 14, 15], "texture": "#pot_detail"},
+				"south": {"uv": [2, 5, 14, 15], "texture": "#pot_detail"},
+				"west": {"uv": [2, 5, 14, 15], "texture": "#pot_detail"},
+				"up": {"uv": [2, 2, 14, 14], "rotation": 90, "texture": "#pot1_top"},
+				"down": {"uv": [2, 2, 14, 14], "rotation": 270, "texture": "#pot1_top"}
+			}
+		},
+		{
+			"from": [3, 13, 4.41421],
+			"to": [5, 15, 14.41421],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [11, 1, 13, 3], "texture": "#pot_detail"},
+				"east": {"uv": [3, 1, 13, 3], "texture": "#pot_detail"},
+				"south": {"uv": [3, 1, 5, 3], "texture": "#pot_detail"},
+				"west": {"uv": [3, 1, 13, 3], "texture": "#pot_detail"},
+				"up": {"uv": [3, 11, 13, 13], "rotation": 90, "texture": "#pot1_top"},
+				"down": {"uv": [3, 11, 13, 13], "rotation": 90, "texture": "#pot1_top"}
+			}
+		},
+		{
+			"from": [11, 13, 4.41421],
+			"to": [13, 15, 14.41421],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [3, 1, 5, 3], "texture": "#pot_detail"},
+				"east": {"uv": [3, 1, 13, 3], "texture": "#pot_detail"},
+				"south": {"uv": [11, 1, 13, 3], "texture": "#pot_detail"},
+				"west": {"uv": [3, 1, 13, 3], "texture": "#pot_detail"},
+				"up": {"uv": [3, 3, 13, 5], "rotation": 90, "texture": "#pot1_top"},
+				"down": {"uv": [3, 3, 13, 5], "rotation": 90, "texture": "#pot1_top"}
+			}
+		},
+		{
+			"from": [5, 13, 4.41421],
+			"to": [11, 15, 6.41421],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [5, 1, 11, 3], "texture": "#pot_detail"},
+				"south": {"uv": [5, 1, 11, 3], "texture": "#pot_detail"},
+				"up": {"uv": [3, 5, 5, 11], "rotation": 90, "texture": "#pot1_top"},
+				"down": {"uv": [3, 5, 5, 11], "rotation": 270, "texture": "#pot1_top"}
+			}
+		},
+		{
+			"from": [5, 13, 12.41421],
+			"to": [11, 15, 14.41421],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [5, 1, 11, 3], "texture": "#pot_detail"},
+				"south": {"uv": [5, 1, 11, 3], "texture": "#pot_detail"},
+				"up": {"uv": [11, 5, 13, 11], "rotation": 90, "texture": "#pot1_top"},
+				"down": {"uv": [11, 5, 13, 11], "rotation": 270, "texture": "#pot1_top"}
+			}
+		}
+	]
+}

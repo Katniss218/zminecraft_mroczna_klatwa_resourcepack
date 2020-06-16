@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/potted_bamboo" },
+            { "model": "block/potted_bamboo", "y": 90 },
+            { "model": "block/potted_bamboo", "y": 180 },
+            { "model": "block/potted_bamboo", "y": 270 },
+			
+            { "model": "block/potted_bamboo_2" },
+			
+            { "model": "block/potted_bamboo_3" },
+            { "model": "block/potted_bamboo_3", "y": 90 },
+            { "model": "block/potted_bamboo_3", "y": 180 },
+            { "model": "block/potted_bamboo_3", "y": 270 }
+		]
+    }
+}

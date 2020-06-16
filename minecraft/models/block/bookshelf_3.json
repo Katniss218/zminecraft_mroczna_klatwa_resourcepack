@@ -1,5 +1,5 @@
 {
-    "parent": "block/cube_column",
+    "parent": "block/bookshelf_template",
     "textures": {
         "end": "block/bookshelf_top",
         "side": "block/bookshelf_3"

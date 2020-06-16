@@ -1,0 +1,7 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "particle": "wynn/null",
+        "cross": "wynn/grayscale/flower_blue_orchid"
+    }
+}

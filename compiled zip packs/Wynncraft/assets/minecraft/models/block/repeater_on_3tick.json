@@ -1,0 +1,212 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "ambientocclusion": false,
+    "textures": {
+        "top": "wynn/candle_pillar_top",
+        "bottom": "wynn/candle_pillar_bottom",
+        "candle": "blocks/redstone_torch_on",
+        "particle": "blocks/wool_colored_black",
+        "holder": "wynn/candle_wall",
+        "flame": "wynn/candle_flame"
+    },
+    "elements": [
+        {
+            "from": [6,10,6],
+            "to": [10,11,10],
+            "faces": {
+                "up": {
+                    "uv": [0,12,4,16],
+                    "texture": "#holder"
+                },
+                "down": {
+                    "uv": [0,12,4,16],
+                    "texture": "#holder"
+                },
+                "west": {
+                    "uv": [0,11,4,12],
+                    "texture": "#holder"
+                },
+                "east": {
+                    "uv": [0,11,4,12],
+                    "texture": "#holder"
+                },
+                "north": {
+                    "uv": [0,11,4,12],
+                    "texture": "#holder"
+                },
+                "south": {
+                    "uv": [0,11,4,12],
+                    "texture": "#holder"
+                }
+            }
+        },
+        {
+            "from": [5,9,5],
+            "to": [11,10,11],
+            "faces": {
+                "up": {
+                    "uv": [4,8,10,14],
+                    "texture": "#holder"
+                },
+                "down": {
+                    "uv": [4,8,10,14],
+                    "texture": "#holder"
+                },
+                "west": {
+                    "uv": [10,13,16,14],
+                    "texture": "#holder"
+                },
+                "east": {
+                    "uv": [10,13,16,14],
+                    "texture": "#holder"
+                },
+                "north": {
+                    "uv": [10,13,16,14],
+                    "texture": "#holder"
+                },
+                "south": {
+                    "uv": [10,13,16,14],
+                    "texture": "#holder"
+                }
+            }
+        },
+        {
+            "from": [6,11,6],
+            "to": [10,17,10],
+            "faces": {
+                "up": {
+                    "uv": [0,12,4,16],
+                    "texture": "#candle"
+                },
+                "west": {
+                    "uv": [6,10,10,16],
+                    "texture": "#candle"
+                },
+                "east": {
+                    "uv": [6,10,10,16],
+                    "texture": "#candle"
+                },
+                "north": {
+                    "uv": [6,10,10,16],
+                    "texture": "#candle"
+                },
+                "south": {
+                    "uv": [6,10,10,16],
+                    "texture": "#candle"
+                }
+            }
+        },
+        {
+            "from": [7.5,17,7.5],
+            "to": [8.5,18,8.5],
+            "faces": {
+                "up": {
+                    "uv": [8,9,9,10],
+                    "texture": "#candle"
+                },
+                "west": {
+                    "uv": [8,9,9,10],
+                    "texture": "#candle"
+                },
+                "east": {
+                    "uv": [8,9,9,10],
+                    "texture": "#candle"
+                },
+                "north": {
+                    "uv": [8,9,9,10],
+                    "texture": "#candle"
+                },
+                "south": {
+                    "uv": [8,9,9,10],
+                    "texture": "#candle"
+                }
+            }
+        },
+        {
+            "from": [7,0,0],
+            "to": [9,10,16],
+            "faces": {
+                "west": {
+                    "texture": "#bottom"
+                },
+                "east": {
+                    "texture": "#bottom"
+                }
+            }
+        },
+        {
+            "from": [0,0,7],
+            "to": [16,10,9],
+            "faces": {
+                "north": {
+                    "texture": "#bottom"
+                },
+                "south": {
+                    "texture": "#bottom"
+                }
+            }
+        },
+        {
+            "from": [6,8,6],
+            "to": [10,9,10],
+            "faces": {
+                "up": {
+                    "uv": [0,12,4,16],
+                    "texture": "#holder"
+                },
+                "down": {
+                    "uv": [0,12,4,16],
+                    "texture": "#holder"
+                },
+                "west": {
+                    "uv": [0,11,4,12],
+                    "texture": "#holder"
+                },
+                "east": {
+                    "uv": [0,11,4,12],
+                    "texture": "#holder"
+                },
+                "north": {
+                    "uv": [0,11,4,12],
+                    "texture": "#holder"
+                },
+                "south": {
+                    "uv": [0,11,4,12],
+                    "texture": "#holder"
+                }
+            }
+        },
+        {
+            "from": [7.9,17,6],
+            "to": [8.1,21,10],
+			"shade": false,
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45, "rescale": true },
+            "faces": {
+                "west": {
+                    "uv": [0,0,16,16],
+                    "texture": "#flame"
+                },
+                "east": {
+                    "uv": [0,0,16,16],
+                    "texture": "#flame"
+                }
+            }
+        },
+        {
+            "from": [6,17,7.9],
+            "to": [10,21,8.1],
+			"shade": false,
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45, "rescale": true },
+            "faces": {
+                "north": {
+                    "uv": [0,0,16,16],
+                    "texture": "#flame"
+                },
+                "south": {
+                    "uv": [0,0,16,16],
+                    "texture": "#flame"
+                }
+            }
+        }
+    ]
+}

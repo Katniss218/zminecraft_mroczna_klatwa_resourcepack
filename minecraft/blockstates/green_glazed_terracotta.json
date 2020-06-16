@@ -1,0 +1,22 @@
+{
+	"multipart": [
+        {
+			"apply": { "model": "block/standalone_cabinet_top", "uvlock": true }
+		},
+		{
+			"apply": { "model": "block/standalone_cabinet_bottom", "uvlock": true }
+		},
+        {   "when": { "facing": "north" },
+            "apply": { "model": "block/standalone_cabinet" }
+        },
+        {   "when": { "facing": "east" },
+            "apply": { "model": "block/standalone_cabinet", "y": 90 }
+        },
+        {   "when": { "facing": "south" },
+            "apply": { "model": "block/standalone_cabinet", "y": 180 }
+        },
+        {   "when": { "facing": "west" },
+            "apply": { "model": "block/standalone_cabinet", "y": 270 }
+        }
+    ]
+}

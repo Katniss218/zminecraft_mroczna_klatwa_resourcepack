@@ -1,1 +1,1 @@
-{	"parent": "block/leaves_2_skewed_2",	"textures": {		"1": "block/oak_leaves",		"tips": "block/oak_leaves_tips_2",		"particle": "block/oak_leaves"	}}
+{	"parent": "block/leaves_skewed_2",	"textures": {		"1": "block/oak_leaves",		"tips": "block/oak_leaves_tips_2",		"particle": "block/oak_leaves"	}}

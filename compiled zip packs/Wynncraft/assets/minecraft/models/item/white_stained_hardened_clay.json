@@ -1,0 +1,25 @@
+{
+    "parent": "item/wynn/spear_fire_glaive1",
+    "display": {
+		"firstperson_righthand": {
+            "rotation": [ -30, -90, 0 ],
+            "translation": [ 2, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+		},
+        "thirdperson_righthand": {
+            "rotation": [ 0, 90, 0 ],
+            "translation": [ -1.5, 0, 2 ],
+            "scale": [ 1.8, 1.8, 1.8 ]
+		},
+		"gui": {
+			"rotation": [ 0, 0, -45 ],
+			"translation": [ 0, 0, 0 ],
+			"scale": [ 1, 1, 1 ]
+		},
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 4, 0 ],
+            "scale": [ 0.5, 0.5, 0.5 ]
+        }
+    }
+}

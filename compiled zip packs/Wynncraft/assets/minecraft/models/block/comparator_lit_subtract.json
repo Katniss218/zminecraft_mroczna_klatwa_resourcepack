@@ -1,0 +1,41 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "blocks/stone2",
+        "base": "blocks/comparator_off",
+        "base_blood": "blocks/comparator_on",
+        "spike": "wynn/spike"
+    },
+    "elements": [
+        {
+            "from": [0,0,0],
+            "to": [16,1,16],
+            "faces": {
+                "up": {
+                    "texture": "#base_blood"
+                },
+                "down": {
+                    "texture": "#particle",
+                    "cullface": "down"
+                },
+                "west": {
+                    "texture": "#base_blood",
+                    "cullface": "west"
+                },
+                "east": {
+                    "texture": "#base_blood",
+                    "cullface": "east"
+                },
+                "north": {
+                    "texture": "#base_blood",
+                    "cullface": "north"
+                },
+                "south": {
+                    "texture": "#base_blood",
+                    "cullface": "south"
+                }
+            }
+        }
+    ]
+}

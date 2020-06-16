@@ -1,0 +1,6 @@
+{
+  "parent": "block/furniture_bottom",
+  "textures": {
+    "down": "block/standalone_cabinet_top"
+  }
+}

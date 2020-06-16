@@ -1,0 +1,36 @@
+{
+	"texture": "waterlily_extra",
+	"textureSize": [16, 16],
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [0, 0, 0, 16, 0, 16],
+			"uvUp": [0, 0, 16, 16],
+			"uvDown": [0, 16, 16, 0]
+		}
+	],
+	"submodels": [
+		{
+			"boxes": [
+				{
+					"coordinates": [5, -8, 11, 8, 8, 0],
+					"uvNorth": [8, 8, 0, 16],
+					"uvSouth": [0, 8, 8, 16]
+				}
+			],
+			"id": "PlaneZ",
+			"rotate": [0, 45, 0]
+		},
+		{
+			"boxes": [
+				{
+					"coordinates": [5, -8, 5, 0, 8, 8],
+					"uvEast": [16, 8, 8, 16],
+					"uvWest": [8, 8, 16, 16]
+				}
+			],
+			"id": "PlaneX",
+			"rotate": [0, 45, 0]
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+    "parent": "builtin/generated",
+    "textures": {
+        "texture": "wynn/gui/equipment_slot"
+    },
+	"display": {
+	    "gui": {
+	        "rotation": [ 0, 0, 0 ],
+	        "translation": [ 0, 9, -10 ],
+	        "scale": [ 2.2, 2.2, 2.2 ]
+	    }
+	}
+}

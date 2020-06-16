@@ -1,0 +1,104 @@
+{
+"__comment": "Designed by king_marnik with BDcraft Cubik PRO 0.95 Beta - http://bdcraft.net",
+"textures": {
+    "fire3": "wynn/weapons/spear/fire3"
+},
+"elements": [ 
+{
+    "from": [ 8, 0, 8 ],
+    "to": [ 9, 12, 9 ],
+    "faces": {
+        "down":  { "uv": [ 8, 9, 7, 8 ], "texture": "#fire3" },
+        "up":    { "uv": [ 8, 8, 9, 9 ], "texture": "#fire3" },
+        "north": { "uv": [ 11, 0, 13, 16 ], "texture": "#fire3" },
+        "south": { "uv": [ 11, 0, 13, 16 ], "texture": "#fire3" },
+        "west":  { "uv": [ 11, 0, 13, 16 ], "texture": "#fire3" },
+        "east":  { "uv": [ 11, 0, 13, 16 ], "texture": "#fire3" }
+    }
+},
+{
+    "from": [ 7.5, 12, 7.5 ],
+    "to": [ 9.5, 13, 9.5 ],
+    "faces": {
+        "down":  { "uv": [ 10, 0, 14, 4 ], "texture": "#fire3" },
+        "up":    { "uv": [ 10, 0, 14, 4 ], "texture": "#fire3" },
+        "north": { "uv": [ 10, 5, 14, 7 ], "texture": "#fire3" },
+        "south": { "uv": [ 10, 5, 14, 7 ], "texture": "#fire3" },
+        "west":  { "uv": [ 10, 5, 14, 7 ], "texture": "#fire3" },
+        "east":  { "uv": [ 10, 5, 14, 7 ], "texture": "#fire3" }
+    }
+},
+{
+    "from": [ 8.25, 17, 7.875 ],
+    "to": [ 8.75, 17.5, 9.125 ],
+    "faces": {
+        "down":  { "uv": [ 1, 1, 5, 2 ], "texture": "#fire3" },
+        "up":    { "uv": [ 1, 1, 5, 2 ], "rotation": 90, "texture": "#fire3" },
+        "north": { "uv": [ 4, 1, 5, 3 ], "texture": "#fire3" },
+        "south": { "uv": [ 4, 1, 5, 3 ], "texture": "#fire3" },
+        "west":  { "uv": [ 1, 1, 5, 3 ], "texture": "#fire3" },
+        "east":  { "uv": [ 1, 1, 5, 3 ], "texture": "#fire3" }
+    }
+},
+{
+    "from": [ 8.25, 13, 7.625 ],
+    "to": [ 8.75, 17, 9.375 ],
+    "faces": {
+        "down":  { "uv": [ 7.75, 9.375, 7.25, 7.625 ], "texture": "#fire3" },
+        "up":    { "uv": [ 0, 3, 6, 4 ], "rotation": 90, "texture": "#fire3" },
+        "north": { "uv": [ 5, 3, 6, 14 ], "texture": "#fire3" },
+        "south": { "uv": [ 0, 3, 1, 14 ], "texture": "#fire3" },
+        "west":  { "uv": [ 0, 3, 6, 14 ], "texture": "#fire3" },
+        "east":  { "uv": [ 0, 3, 6, 14 ], "texture": "#fire3" }
+    }
+},
+{
+    "from": [ 7.75, -0.75, 7.75 ],
+    "to": [ 9.25, 0, 9.25 ],
+    "faces": {
+        "down":  { "uv": [ 11, 5, 13, 7 ], "texture": "#fire3" },
+        "up":    { "uv": [ 11, 5, 13, 7 ], "texture": "#fire3" },
+        "north": { "uv": [ 10, 5, 12, 6 ], "texture": "#fire3" },
+        "south": { "uv": [ 12, 5, 14, 6 ], "texture": "#fire3" },
+        "west":  { "uv": [ 10, 6, 12, 7 ], "texture": "#fire3" },
+        "east":  { "uv": [ 12, 6, 14, 7 ], "texture": "#fire3" }
+    }
+},
+{
+    "from": [ 7.825, -0.9, 7.825 ],
+    "to": [ 9.175, -0.75, 9.175 ],
+    "faces": {
+        "down":  { "uv": [ 11, 2, 13, 4 ], "texture": "#fire3" },
+        "up":    { "uv": [ 11, 2, 13, 4 ], "texture": "#fire3" },
+        "north": { "uv": [ 10, 5, 12, 5.5 ], "texture": "#fire3" },
+        "south": { "uv": [ 12, 5, 14, 5.5 ], "texture": "#fire3" },
+        "west":  { "uv": [ 10, 6, 12, 6.5 ], "texture": "#fire3" },
+        "east":  { "uv": [ 12, 6, 14, 6.5 ], "texture": "#fire3" }
+    }
+},
+{
+    "from": [ 7.825, 0, 7.825 ],
+    "to": [ 9.175, 0.15, 9.175 ],
+    "faces": {
+        "down":  { "uv": [ 11, 2, 13, 4 ], "texture": "#fire3" },
+        "up":    { "uv": [ 11, 2, 13, 4 ], "texture": "#fire3" },
+        "north": { "uv": [ 10, 5, 12, 5.5 ], "texture": "#fire3" },
+        "south": { "uv": [ 12, 5, 14, 5.5 ], "texture": "#fire3" },
+        "west":  { "uv": [ 10, 6, 12, 6.5 ], "texture": "#fire3" },
+        "east":  { "uv": [ 12, 6, 14, 6.5 ], "texture": "#fire3" }
+    }
+},
+{
+    "from": [ 8.25, 17.5, 8.125 ],
+    "to": [ 8.75, 18, 8.875 ],
+    "faces": {
+        "down":  { "uv": [ 7.75, 8.875, 7.25, 8.125 ], "texture": "#fire3" },
+        "up":    { "uv": [ 2, 0, 4, 1 ], "rotation": 90, "texture": "#fire3" },
+        "north": { "uv": [ 2, 0, 3, 1 ], "texture": "#fire3" },
+        "south": { "uv": [ 3, 0, 4, 1 ], "texture": "#fire3" },
+        "west":  { "uv": [ 2, 0, 4, 1 ], "texture": "#fire3" },
+        "east":  { "uv": [ 2, 0, 4, 1 ], "texture": "#fire3" }
+    }
+}
+]
+}

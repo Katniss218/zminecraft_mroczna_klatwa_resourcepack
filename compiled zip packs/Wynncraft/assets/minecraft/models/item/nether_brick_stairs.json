@@ -1,0 +1,25 @@
+{
+    "parent": "item/wynn/claws3",
+    "display": {
+		"firstperson_righthand": {
+            "rotation": [ -80, 180, -10 ],
+            "translation": [ 0, -3, 0 ],
+            "scale": [ 1, 1, 1 ]
+		},
+        "thirdperson_righthand": {
+            "rotation": [ -90, 180, 0 ],
+            "translation": [ 0, -4.5, 2 ],
+            "scale": [ 0.8, 0.8, 0.8 ]
+		},
+		"gui": {
+			"rotation": [ 0, 0, -45 ],
+			"translation": [ -1, -1, 0 ],
+			"scale": [ 0.8, 0.8, 0.8 ]
+		},
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 4, 0 ],
+            "scale": [ 0.5, 0.5, 0.5 ]
+        }
+    }
+}

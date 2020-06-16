@@ -1,0 +1,184 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "ambientocclusion": false,
+    "textures": {
+        "wand": "wynn/weapons/wand/water2",
+        "atom": "wynn/weapons/wand/water_atom"
+    },
+    "elements": [
+        {
+            "from": [6,8,6],
+            "to": [10,9,10],
+            "faces": {
+                "up": {
+                    "uv": [5,12,9,16],
+                    "texture": "#wand"
+                },
+                "down": {
+                    "uv": [9,12,5,16],
+                    "texture": "#wand"
+                },
+                "west": {
+                    "uv": [1,7,5,8],
+                    "texture": "#wand"
+                },
+                "east": {
+                    "uv": [1,7,5,8],
+                    "texture": "#wand"
+                },
+                "north": {
+                    "uv": [1,7,5,8],
+                    "texture": "#wand"
+                },
+                "south": {
+                    "uv": [1,7,5,8],
+                    "texture": "#wand"
+                }
+            }
+        },
+        {
+            "from": [7,0,7],
+            "to": [9,10,9],
+            "faces": {
+                "up": {
+                    "uv": [0,14,2,16],
+                    "texture": "#wand"
+                },
+                "west": {
+                    "uv": [2,6,4,16],
+                    "texture": "#wand"
+                },
+                "east": {
+                    "uv": [2,6,4,16],
+                    "texture": "#wand"
+                },
+                "north": {
+                    "uv": [2,6,4,16],
+                    "texture": "#wand"
+                },
+                "south": {
+                    "uv": [2,6,4,16],
+                    "texture": "#wand"
+                }
+            }
+        },
+        {
+            "from": [7,-7,7],
+            "to": [9,0,9],
+            "faces": {
+                "down": {
+                    "uv": [0,14,2,16],
+                    "texture": "#wand"
+                },
+                "west": {
+                    "uv": [10,0,12,7],
+                    "texture": "#wand"
+                },
+                "east": {
+                    "uv": [10,0,12,7],
+                    "texture": "#wand"
+                },
+                "north": {
+                    "uv": [10,0,12,7],
+                    "texture": "#wand"
+                },
+                "south": {
+                    "uv": [10,0,12,7],
+                    "texture": "#wand"
+                }
+            }
+        },
+        {
+            "from": [7,12,7],
+            "to": [9,14,9],
+            "faces": {
+                "up": {
+                    "uv": [10,11,12,13],
+                    "texture": "#wand"
+                },
+                "down": {
+                    "uv": [10,11,12,13],
+                    "texture": "#wand"
+                },
+                "west": {
+                    "uv": [10,11,12,13],
+                    "texture": "#wand"
+                },
+                "east": {
+                    "uv": [12,11,10,13],
+                    "texture": "#wand"
+                },
+                "north": {
+                    "uv": [10,11,12,13],
+                    "texture": "#wand"
+                },
+                "south": {
+                    "uv": [12,11,10,13],
+                    "texture": "#wand"
+                }
+            }
+        },
+        {
+            "from": [4,12.98,4],
+            "to": [12,13.02,12],
+			"shade": false,
+			"rotation": { "origin": [ 8, 13, 8 ], "axis": "x", "angle": -45, "rescale": false },
+            "faces": {
+                "up": {
+                    "uv": [0,0,16,16],
+                    "texture": "#atom"
+                },
+                "down": {
+                    "uv": [0,16,16,0],
+                    "texture": "#atom"
+                }
+            }
+        },
+        {
+            "from": [4,12.98,4],
+            "to": [12,13.02,12],
+			"shade": false,
+			"rotation": { "origin": [ 8, 13, 8 ], "axis": "x", "angle": 45, "rescale": false },
+            "faces": {
+                "up": {
+                    "uv": [0,0,16,16],
+                    "texture": "#atom"
+                },
+                "down": {
+                    "uv": [0,16,16,0],
+                    "texture": "#atom"
+                }
+            }
+        },
+        {
+            "from": [7.25,-9.5,7.25],
+            "to": [8.75,-7,8.75],
+            "faces": {
+                "up": {
+                    "uv": [0,10,2,12],
+                    "texture": "#wand"
+                },
+                "down": {
+                    "uv": [0,14,2,16],
+                    "texture": "#wand"
+                },
+                "west": {
+                    "uv": [13,2,15,5],
+                    "texture": "#wand"
+                },
+                "east": {
+                    "uv": [13,2,15,5],
+                    "texture": "#wand"
+                },
+                "north": {
+                    "uv": [13,2,15,5],
+                    "texture": "#wand"
+                },
+                "south": {
+                    "uv": [13,2,15,5],
+                    "texture": "#wand"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,192 @@
+language.name=English
+language.region=US
+language.code=en_US
+
+--KRAK'TAR--
+tile.monsterStoneEgg.cobble.name=Krak'tar - Idle (Head)
+tile.monsterStoneEgg.brick.name=Krak'tar - Idle (Hand)
+tile.monsterStoneEgg.mossybrick.name=Krak'tar - Smash (Head)
+tile.monsterStoneEgg.crackedbrick.name=Krak'tar - Smash (Hand #1)
+tile.monsterStoneEgg.chiseledbrick.name=Krak'tar - Smash (Hand #2)
+tile.monsterStoneEgg.stone.name=Krak'tar - Spin (Head?)
+
+--CUSTOM BLOCKS/ITEMS--
+item.slimeball.name=Slimeball
+item.rabbitHide.name=Armor
+tile.stoneSlab.brick.name=Dirt Slab
+tile.tripWireSource.name=Basic Key
+item.comparator.name=Spike Trap (Deployed by default)
+tile.oreRedstone.name=Ruby Ore
+tile.blockRedstone.name=Block of Ruby
+tile.redstoneDust.name=Blood Splatter
+item.redstone.name=Blood
+
+tile.clayHardenedStained.red.name=Red Checkmark
+tile.clayHardenedStained.yellow.name=Yellow Checkmark
+tile.clayHardenedStained.lime.name=Green Checkmark
+tile.clayHardenedStained.cyan.name=Grey Checkmark
+
+
+item.doorSpruce.name=Nii
+item.doorBirch.name=Tol
+item.doorJungle.name=Uth
+item.doorAcacia.name=Ek
+item.doorDarkOak.name=Az
+
+--ACCESSORIES--
+
+tile.stainedGlass.white.name=Basic Ring
+tile.stainedGlass.orange.name=Purity Ring
+tile.oreDiamond.name=Wedding Ring
+tile.stainedGlass.lightBlue.name=Pearl Ring
+tile.hellrock.name=Class Ring
+tile.stainedGlass.lime.name=Earth Ring (Tier 1)
+tile.stainedGlass.pink.name=Earth Ring (Tier 2)
+tile.brick.name=Fire Ring (Tier 1)
+tile.stainedGlass.silver.name=Fire Ring (Tier 2)
+tile.stainedGlass.cyan.name=Water Ring (Tier 1)
+tile.hellsand.name=Water Ring (Tier 2)
+tile.stainedGlass.blue.name=Thunder Ring (Tier 1)
+tile.stainedGlass.brown.name=Thunder Ring (Tier 2)
+tile.stainedGlass.green.name=Air Ring (Tier 1)
+tile.lightgem.name=Air Ring (Tier 2)
+tile.stoneMoss.name=Multi-Ring (Tier 1)
+tile.melon.name=Multi-Ring (Tier 2)
+
+tile.thinGlass.name=Basic Necklace
+tile.thinStainedGlass.white.name=Cross Necklace
+tile.thinStainedGlass.orange.name=Silver Necklace
+tile.thinStainedGlass.magenta.name=Pearl Necklace
+tile.thinStainedGlass.lightBlue.name=Broach Necklace
+tile.thinStainedGlass.yellow.name=Earth Necklace (Tier 1)
+tile.thinStainedGlass.lime.name=Earth Necklace (Tier 2)
+tile.thinStainedGlass.pink.name=Fire Necklace (Tier 1)
+tile.thinStainedGlass.gray.name=Fire Necklace (Tier 2)
+tile.thinStainedGlass.silver.name=Water Necklace (Tier 1)
+tile.thinStainedGlass.cyan.name=Water Necklace (Tier 2)
+tile.thinStainedGlass.purple.name=Thunder Necklace (Tier 1)
+tile.thinStainedGlass.blue.name=Thunder Necklace (Tier 2)
+tile.thinStainedGlass.brown.name=Air Necklace (Tier 1)
+tile.thinStainedGlass.green.name=Air Necklace (Tier 2)
+tile.thinStainedGlass.red.name=Multi-Necklace (Tier 1)
+item.rabbitFoot.name=Multi-Necklace (Tier 2)
+
+tile.spruceFence.name=Basic Bracelet
+tile.birchFence.name=Shackle Bracelet
+tile.jungleFence.name=Air Bracelet (Tier 1)
+tile.darkOakFence.name=Air Bracelet (Tier 2)
+tile.acaciaFence.name=Earth Bracelet (Tier 1)
+tile.spruceFenceGate.name=Earth Bracelet (Tier 2)
+tile.birchFenceGate.name=Fire Bracelet (Tier 1)
+tile.jungleFenceGate.name=Fire Bracelet (Tier 2)
+tile.darkOakFenceGate.name=Thunder Bracelet (Tier 1)
+tile.acaciaFenceGate.name=Thunder Bracelet (Tier 2)
+tile.musicBlock.name=Water Bracelet (Tier 1)
+tile.rail.name=Water Bracelet (Tier 2)
+tile.goldenRail.name=Multi-Bracelet (Tier 1)
+tile.detectorRail.name=Multi-Bracelet (Tier 2)
+----
+
+container.inventory=Satchel
+container.hopper=Item Hopper
+container.crafting=
+container.dispenser=Dispenser
+container.dropper=Dropper
+container.furnace=Furnace
+container.enchant=Enchant
+container.enchant.lapis.one=1 Lapis Lazuli
+container.enchant.lapis.many=%d Lapis Lazuli
+container.enchant.level.one=1 EXP
+container.enchant.level.many=%d EXP
+container.enchant.clue=%s . . . ?
+container.repair=Repair & Name
+container.repair.cost=Enchantment Cost: %1$d
+container.repair.expensive=Too Expensive!
+container.creative=Item Selection
+container.brewing=Brewing Stand
+container.chest=Chest
+container.chestDouble=Large Chest
+container.minecart=Minecart
+container.enderchest=Ender Chest
+container.beacon=Beacon
+
+----
+
+effect.none=
+effect.moveSpeed=Speed
+effect.moveSlowdown=Slowness
+effect.digSpeed=Haste
+effect.digSlowDown=Mining Fatigue
+effect.damageBoost=Strength
+effect.heal=
+effect.harm=
+effect.jump=Jump Boost
+effect.confusion=Nausea
+effect.regeneration=Regeneration
+effect.resistance=Resistance
+effect.fireResistance=Fire Resistance
+effect.waterBreathing=Water Breathing
+effect.invisibility=Invisibility
+effect.blindness=Blindness
+effect.nightVision=Night Vision
+effect.hunger=Hunger
+effect.weakness=Weakness
+effect.poison=Poison
+effect.wither=Wither
+effect.healthBoost=Health Boost
+effect.absorption=Absorption
+effect.saturation=Saturation
+effect.glowing=Glowing
+effect.luck=Luck
+effect.unluck=Bad Luck
+effect.levitation=Levitation
+
+potion.effects.whenDrank=
+potion.empty=
+potion.moveSpeed=Speed
+potion.moveSlowdown=Slowness
+potion.digSpeed=Attack Speed
+potion.digSlowDown=Attack Speed
+potion.damageBoost=
+potion.heal=
+potion.harm=
+potion.jump=Jump Boost
+potion.confusion=Nausea
+potion.regeneration=
+potion.resistance=Resistance
+potion.fireResistance=
+potion.waterBreathing=Water Breathing
+potion.invisibility=Invisibility
+potion.blindness=Blindness
+potion.nightVision=Night Vision
+potion.hunger=Hunger
+potion.weakness=Weakness
+potion.poison=Poison
+potion.wither=Wither
+potion.healthBoost=Health Boost
+potion.absorption=Absorption
+potion.saturation=Saturation
+
+potion.moveSpeed.postfix=Potion of Swiftness
+potion.moveSlowdown.postfix=Potion of Slowness
+potion.digSpeed.postfix=Potion of Haste
+potion.digSlowDown.postfix=Potion of Dullness
+potion.damageBoost.postfix=Potion of Strength
+potion.weakness.postfix=Potion of Weakness
+potion.heal.postfix=
+potion.harm.postfix=
+potion.jump.postfix=Potion of Leaping
+potion.confusion.postfix=Potion of Nausea
+potion.regeneration.postfix=Potion of Regeneration
+potion.resistance.postfix=Potion of Resistance
+potion.fireResistance.postfix=Potion of Fire Resistance
+potion.waterBreathing.postfix=Potion of Water Breathing
+potion.invisibility.postfix=Potion of Invisibility
+potion.blindness.postfix=Potion of Blindness
+potion.nightVision.postfix=Potion of Night Vision
+potion.hunger.postfix=Potion of Hunger
+potion.poison.postfix=Potion of Poison
+potion.wither.postfix=Potion of Decay
+potion.healthBoost.postfix=Potion of Health Boost
+potion.absorption.postfix=Potion of Absorption
+potion.saturation.postfix=Potion of Saturation

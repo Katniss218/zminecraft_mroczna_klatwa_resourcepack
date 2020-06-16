@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+		{ "model": "web" },
+		{ "model": "web1" },
+		{ "model": "web2" },
+		{ "model": "web3" }
+		]
+    }
+}

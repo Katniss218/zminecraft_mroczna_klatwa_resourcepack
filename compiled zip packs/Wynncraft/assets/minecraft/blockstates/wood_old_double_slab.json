@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+			{ "model": "molten_rock", "weight": 25 },
+			{ "model": "molten_rock1", "weight": 25 },
+			{ "model": "molten_rock2", "weight": 25 },
+			{ "model": "molten_rock3", "weight": 25 }
+		]
+    }
+}

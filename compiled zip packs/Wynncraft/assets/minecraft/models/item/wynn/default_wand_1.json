@@ -1,0 +1,191 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "ambientocclusion": false,
+    "textures": {
+        "stick": "wynn/weapons/wand/stick"
+    },
+    "elements": [
+        {
+            "from": [6,-7,7],
+            "to": [9,-5,9],
+            "faces": {
+                "up": {
+                    "uv": [10,14,13,16],
+                    "texture": "#stick",
+                    "rotation": 90
+                },
+                "down": {
+                    "uv": [10,14,13,16],
+                    "texture": "#stick",
+                    "rotation": 90
+                },
+                "west": {
+                    "uv": [10,14,13,16],
+                    "texture": "#stick"
+                },
+                "east": {
+                    "uv": [10,14,13,16],
+                    "texture": "#stick"
+                },
+                "north": {
+                    "uv": [10,14,13,16],
+                    "texture": "#stick"
+                },
+                "south": {
+                    "uv": [10,14,13,16],
+                    "texture": "#stick"
+                }
+            }
+        },
+        {
+            "from": [7,-5,7],
+            "to": [9,9,9],
+            "faces": {
+                "west": {
+                    "uv": [11,0,13,14],
+                    "texture": "#stick"
+                },
+                "east": {
+                    "uv": [11,0,13,14],
+                    "texture": "#stick"
+                },
+                "north": {
+                    "uv": [11,0,13,14],
+                    "texture": "#stick"
+                },
+                "south": {
+                    "uv": [11,0,13,14],
+                    "texture": "#stick"
+                }
+            }
+        },
+        {
+            "from": [7,9,7],
+            "to": [9,16,9],
+            "faces": {
+                "up": {
+                    "uv": [14,4,16,6],
+                    "texture": "#stick"
+                },
+                "west": {
+                    "uv": [14,1,16,8],
+                    "texture": "#stick"
+                },
+                "east": {
+                    "uv": [14,3,16,10],
+                    "texture": "#stick"
+                },
+                "north": {
+                    "uv": [3,9,1,16],
+                    "texture": "#stick"
+                },
+                "south": {
+                    "uv": [1,9,3,16],
+                    "texture": "#stick"
+                }
+            }
+        },
+        {
+            "from": [8,15,7],
+            "to": [10,23,9],
+            "faces": {
+                "up": {
+                    "uv": [14,0,16,2],
+                    "texture": "#stick"
+                },
+                "down": {
+                    "uv": [14,14,16,16],
+                    "texture": "#stick"
+                },
+                "west": {
+                    "uv": [14,8,16,16],
+                    "texture": "#stick"
+                },
+                "east": {
+                    "uv": [14,2,16,10],
+                    "texture": "#stick"
+                },
+                "north": {
+                    "uv": [4,2,2,10],
+                    "texture": "#stick"
+                },
+                "south": {
+                    "uv": [2,2,4,10],
+                    "texture": "#stick"
+                }
+            }
+        },
+        {
+            "from": [6,21,7],
+            "to": [8,25,9],
+            "faces": {
+                "up": {
+                    "uv": [14,0,16,2],
+                    "texture": "#stick"
+                },
+                "down": {
+                    "uv": [14,0,16,2],
+                    "texture": "#stick"
+                },
+                "west": {
+                    "uv": [0,0,2,4],
+                    "texture": "#stick"
+                },
+                "east": {
+                    "uv": [0,0,2,4],
+                    "texture": "#stick"
+                },
+                "north": {
+                    "uv": [2,0,0,4],
+                    "texture": "#stick"
+                },
+                "south": {
+                    "uv": [0,0,2,4],
+                    "texture": "#stick"
+                }
+            }
+        },
+        {
+            "from": [10,19,7],
+            "to": [11,20,8],
+            "faces": {
+                "up": {
+                    "uv": [4,5,5,6],
+                    "texture": "#stick"
+                },
+                "down": {
+                    "uv": [4,5,5,6],
+                    "texture": "#stick"
+                },
+                "east": {
+                    "uv": [4,5,5,6],
+                    "texture": "#stick"
+                },
+                "north": {
+                    "uv": [4,5,5,6],
+                    "texture": "#stick"
+                },
+                "south": {
+                    "uv": [4,5,5,6],
+                    "texture": "#stick"
+                }
+            }
+        },
+        {
+            "from": [11,19,7.49],
+            "to": [14,23,7.51],
+			"shade": false,
+			"rotation": { "origin": [ 11, 19, 7.5 ], "axis": "y", "angle": 45, "rescale": false },			
+            "faces": {
+                "north": {
+                    "uv": [8,2,5,6],
+                    "texture": "#stick"
+                },
+                "south": {
+                    "uv": [5,2,8,6],
+                    "texture": "#stick"
+                }
+            }
+        }
+    ]
+}

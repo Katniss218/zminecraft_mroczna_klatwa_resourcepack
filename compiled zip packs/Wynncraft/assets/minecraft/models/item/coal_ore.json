@@ -1,0 +1,25 @@
+{
+    "parent": "item/wynn/default_dagger_2",
+    "display": {
+		"firstperson_righthand": {
+            "rotation": [ -90, 100, 10 ],
+            "translation": [ 1.5, 2, 0 ],
+            "scale": [ 0.6, 0.6, 0.6 ]
+		},
+        "thirdperson_righthand": {
+            "rotation": [ 10, 90, 0 ],
+            "translation": [ -0.5, 3, 2.5 ],
+            "scale": [ 0.7, 0.7, 0.7 ]
+		},
+		"gui": {
+			"rotation": [ 0, 0, -45 ],
+			"translation": [ 0, 0, 0 ],
+			"scale": [ 0.8, 0.8, 0.8 ]
+		},
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 4, 0 ],
+            "scale": [ 0.5, 0.5, 0.5 ]
+        }
+    }
+}
