@@ -1,0 +1,20 @@
+{
+    "variants": 
+	{
+        "":
+		[
+            { "model": "block/dirt" },
+            { "model": "block/dirt", "x": 90 },
+            { "model": "block/dirt", "x": 180 },
+            { "model": "block/dirt", "x": 270 },
+            { "model": "block/dirt2" },
+            { "model": "block/dirt2", "x": 90 },
+            { "model": "block/dirt2", "x": 180 },
+            { "model": "block/dirt2", "x": 270 },
+            { "model": "block/dirt3" },
+            { "model": "block/dirt3", "x": 90 },
+            { "model": "block/dirt3", "x": 180 },
+            { "model": "block/dirt3", "x": 270 }
+		]
+    }
+}
