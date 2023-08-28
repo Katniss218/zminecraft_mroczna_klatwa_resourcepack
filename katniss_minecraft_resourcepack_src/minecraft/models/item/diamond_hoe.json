@@ -4,6 +4,6 @@
 		"layer0": "item/diamond_hoe"
 	},
     "overrides": [
-		{ "predicate": { "custom_model_data": 218000 }, "model": "block/chair" }
+		{ "predicate": { "custom_model_data": 218000 }, "model": "block/_chair" }
     ]
 }
