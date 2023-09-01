@@ -4,6 +4,6 @@
 		"layer0": "item/iron_sword"
 	},
     "overrides": [
-		{ "predicate": { "custom_model_data": 27 }, "model": "item/_armingsword" }
+		{ "predicate": { "custom_model_data": 27 }, "model": "item/_shortsword" }
     ]
 }
