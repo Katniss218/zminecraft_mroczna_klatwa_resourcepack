@@ -4,7 +4,8 @@
         "":
 		[
             { "model": "block/mossy_cobblestone" },
-            { "model": "block/mossy_cobblestone2" }
+            { "model": "block/mossy_cobblestone2" },
+            { "model": "block/mossy_cobblestone3" }
 		]
     }
 }
