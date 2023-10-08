@@ -3,7 +3,9 @@
 	{
 		"": 
 		[
-			{ "model": "minecraft:block/birch_leaves" }
+			{ "model": "minecraft:block/birch_leaves" },
+			{ "model": "minecraft:block/birch_leaves2" },
+			{ "model": "minecraft:block/birch_leaves3" }
 		]
 	}
 }
