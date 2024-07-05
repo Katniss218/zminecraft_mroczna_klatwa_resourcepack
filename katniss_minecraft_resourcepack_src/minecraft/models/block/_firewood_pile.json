@@ -1,11 +1,11 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "By Katniss",
 	"parent": "block/block",
 	"textures": {
-		"0": "block/firewood_pile_front",
-		"1": "block/firewood_pile_side",
-		"2": "block/firewood_pile_top",
-		"particle": "block/firewood_pile_front"
+		"0": "block/_firewood_pile_front",
+		"1": "block/_firewood_pile_side",
+		"2": "block/_firewood_pile_top",
+		"particle": "block/_firewood_pile_front"
 	},
 	"elements": [
 		{

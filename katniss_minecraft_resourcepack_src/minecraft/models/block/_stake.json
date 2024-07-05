@@ -1,0 +1,50 @@
+{
+	"parent": "block/block",
+	"credit": "By Katniss",
+	"elements": [
+		{
+			"from": [6.5, 0, 6.5],
+			"to": [9.5, 16, 9.5],
+			"faces": {
+				"north": {"uv": [6, 0, 9, 16], "texture": "#side_bottom"},
+				"east": {"uv": [6, 0, 9, 16], "texture": "#side_bottom"},
+				"south": {"uv": [6, 0, 9, 16], "texture": "#side_bottom"},
+				"west": {"uv": [6, 0, 9, 16], "texture": "#side_bottom"},
+				"down": {"uv": [10, 11, 13, 14], "texture": "#top", "cullface": "down"}
+			}
+		},
+		{
+			"from": [6.5, 16, 6.5],
+			"to": [9.5, 19, 9.5],
+			"faces": {
+				"north": {"uv": [6, 13, 9, 16], "texture": "#side_top"},
+				"east": {"uv": [6, 13, 9, 16], "texture": "#side_top"},
+				"south": {"uv": [6, 13, 9, 16], "texture": "#side_top"},
+				"west": {"uv": [6, 13, 9, 16], "texture": "#side_top"},
+				"up": {"uv": [10, 11, 13, 14], "texture": "#top"}
+			}
+		},
+		{
+			"from": [7, 19, 7],
+			"to": [9, 23, 9],
+			"faces": {
+				"north": {"uv": [7, 9, 9, 13], "texture": "#side_top"},
+				"east": {"uv": [7, 9, 9, 13], "texture": "#side_top"},
+				"south": {"uv": [7, 9, 9, 13], "texture": "#side_top"},
+				"west": {"uv": [7, 9, 9, 13], "texture": "#side_top"},
+				"up": {"uv": [8, 8, 10, 10], "texture": "#top"}
+			}
+		},
+		{
+			"from": [7.5, 23, 7.5],
+			"to": [8.5, 26, 8.5],
+			"faces": {
+				"north": {"uv": [7, 6, 8, 9], "texture": "#side_top"},
+				"east": {"uv": [7, 6, 8, 9], "texture": "#side_top"},
+				"south": {"uv": [7, 6, 8, 9], "texture": "#side_top"},
+				"west": {"uv": [7, 6, 8, 9], "texture": "#side_top"},
+				"up": {"uv": [8, 8, 9, 9], "texture": "#top"}
+			}
+		}
+	]
+}
